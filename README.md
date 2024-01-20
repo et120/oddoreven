@@ -3,7 +3,7 @@
 
 **Name:** Elizabeth Trotter
 
-**Description:** Learning modulo, tryparse, and while loops in `C#`.
+**Description:** Practicing modulo, tryparse, and while loops in `C#`.
 
 
 ---
